@@ -1,0 +1,66 @@
+#Para1{
+    text-align:center;
+    color: red;
+}
+#Para2{
+    text-align:left;
+    color: blue;
+    font: size 21px;
+}
+
+.centrar{text-align:center;
+    color:red;
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bold;
+
+}
+
+.menu li{
+    list-style: none;
+    color:#000;
+    display: inline;
+   background: #fff;
+   margin: 0 20px;
+   border-radius: 5px;
+   padding: 5px 5px 5px 5px;
+
+}
+
+#encabezado{
+    color: #000;
+    border-radius: 10px;
+    width: 80%;
+    margin: 10px 10px;
+    background-image: url(../img/crdo.jpg);
+    padding: 10px 10px 10px 10px;
+
+}
+
+#piedepagina{
+color: #000;
+text-align: center;
+border-radius: 10px;
+width: 81%;
+height: 100px;
+background-color: #fff;
+clear: both;
+
+}
+
+#seccion1{
+    float: left;
+    width: 38%;
+    height: 550px;
+    margin: 0 0 0 10%;
+    background-color: blue;
+    padding:10px 10px 10px 10px;
+}
+#seccion2{
+    float: right;
+    width: 30%;
+    height: 500px;
+    margin: 0 15% 0 0;
+    background-color: red;
+    padding: 35px 35px 35px 35px;
+}
